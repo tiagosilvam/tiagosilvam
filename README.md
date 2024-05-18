@@ -1,12 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tiago
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tiago
 ============================================================================================================================================
 
 Frontend Developer
 ------------------
 
 I am a frontend developer currently in my final year of Computer Science at the Universidade Estadual da Paraíba. I am passionate about creating solutions that deliver exceptional user experiences.
-
-With approximately two years of experience in the field, I have contributed to the development of various projects. I am a quick learner and constantly seek to expand and refine my knowledge.
 
 ### Skills
 
